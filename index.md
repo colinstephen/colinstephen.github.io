@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Contact
 
-You can use the [editor on GitHub](https://github.com/colinstephen/colinstephen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
+- Room DCG-01B, Design Hub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research
 
-### Markdown
+- Topological Data Analysis
+- Time Series
+- Computer Vision
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Publications
 
-```markdown
-Syntax highlighted code block
+- Stephen, Colin. 2015. "Dynamic Phase and Group Detection in Pedestrian Crowd Data Using Multiplex Visibility Graphs." Procedia Computer Science 53: 410–419. doi:10.1016/j.procs.2015.07.318. [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S1877050915018219).
 
-# Header 1
-## Header 2
-### Header 3
+#### Activity
 
-- Bulleted
-- List
+- Member of the [Applied Algebraic Topology Research Network](https://www.ima.umn.edu/topology/node/2)
 
-1. Numbered
-2. List
+## Teaching
 
-**Bold** and _Italic_ and `Code` text
+#### Current
 
-[Link](url) and ![Image](src)
-```
+- KPIM24COM Machine Learning and Computer Vision
+- 207SE Operating Systems, Security and Networks
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Previous
 
-### Jekyll Themes
+*Coventry University*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colinstephen/colinstephen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- M32COM Internet Systems Development
+- 389COM Open Source Development
+- 304CEM Web API Development
+- 260CT Software Engineering
+- 220CT Data and Information Retrieval
+- 210CT Programming, Algorithms, and Data Structures
+- 205CDE Developing the Modern Web
+- 121COM Introduction to Computing
 
-### Support or Contact
+*London School of Economics*
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [PH217](http://www.lse.ac.uk/resources/calendar/courseGuides/PH/2017_PH217.htm) Set Theory and Further Logic
+- [PH101](http://www.lse.ac.uk/resources/Calendar/courseGuides/PH/2017_PH101.htm) Logic
+
