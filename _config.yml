@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Colin Stephen
+title: Colin Stephen
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Research Assistant in Computing - Coventry University
