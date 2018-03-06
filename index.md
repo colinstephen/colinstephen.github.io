@@ -1,3 +1,7 @@
+---
+title: Colin Stephen
+---
+
 ## Contact
 
 - [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
