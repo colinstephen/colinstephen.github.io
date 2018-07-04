@@ -19,7 +19,7 @@ title: Colin Stephen
 
 #### Activity
 
-- Member of the [Applied Algebraic Topology Research Network](https://www.ima.umn.edu/topology/node/2)
+- Member of the [Applied Algebraic Topology Research Network](https://topology.ima.umn.edu/)
 
 ## Teaching
 
