@@ -43,6 +43,6 @@ title: Colin Stephen
 
 *London School of Economics*
 
-- [PH217](http://www.lse.ac.uk/resources/calendar/courseGuides/PH/2017_PH217.htm) Set Theory and Further Logic
-- [PH101](http://www.lse.ac.uk/resources/Calendar/courseGuides/PH/2017_PH101.htm) Logic
+- PH217 Set Theory and Further Logic
+- PH101 Logic
 
