@@ -15,7 +15,7 @@ title: Colin Stephen
 
 #### Publications
 
-- Stephen, Colin. (forthcoming). "Sinkhorn Divergence of Topological Signature Estimates for Time Series Classification." Machine Learning and Applications (ICMLA), 2018 17th IEEE International Conference on. IEEE, 2018. 
+- Stephen, Colin. (forthcoming 2018). "Sinkhorn Divergence of Topological Signature Estimates for Time Series Classification." Machine Learning and Applications (ICMLA), 2018 17th IEEE International Conference on. IEEE, 2018. 
 - Stephen, Colin. 2015. "Dynamic Phase and Group Detection in Pedestrian Crowd Data Using Multiplex Visibility Graphs." Procedia Computer Science 53: 410–419. doi:10.1016/j.procs.2015.07.318. [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S1877050915018219).
 
 #### Activity
