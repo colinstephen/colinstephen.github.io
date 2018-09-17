@@ -21,6 +21,7 @@ title: Colin Stephen
 #### Activity
 
 - Member of the [Applied Algebraic Topology Research Network](https://topology.ima.umn.edu/)
+- Member of the [Institute for Future Transport and Cities](https://www.coventry.ac.uk/research/areas-of-research/institute-for-future-transport-and-cities/), Coventry University
 
 ## Teaching
 
