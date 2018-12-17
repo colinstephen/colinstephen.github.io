@@ -9,8 +9,10 @@ title: Colin Stephen
 
 ## Research
 
+#### Interests
+
 - Topological Data Analysis
-- Time Series
+- Time Series Analysis
 - Computer Vision
 
 #### Peer Reviewed Publications
