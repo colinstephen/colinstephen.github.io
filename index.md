@@ -37,7 +37,7 @@ title: Colin Stephen
 
 <details>
 
-*Coventry University*
+<i>Coventry University</i>
 
 - M Internet Systems Development
 - 3 Open Source Development
@@ -51,7 +51,7 @@ title: Colin Stephen
 - 1 Logic and Sets
 - 1 Introduction to Computing
 
-*London School of Economics*
+<i>London School of Economics</i>
 
 - M/3/2 Set Theory and Further Logic
 - 1 Logic
