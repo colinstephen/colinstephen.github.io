@@ -29,27 +29,30 @@ title: Colin Stephen
 
 #### Current
 
-- KPIM24COM Machine Learning and Computer Vision
-- 120CT Computer Architecture and Networks
-- 119COM Current Technologies
+- M Machine Learning and Computer Vision
+- 3 Theoretical Aspects of Computer Science
+- 2 Operating Systems, Security and Networks
 
 #### Previous
 
+<details>
+
 *Coventry University*
 
-- M32COM Internet Systems Development
-- 389COM Open Source Development
-- 304CEM Web API Development
-- 260CT Software Engineering
-- 220CT Data and Information Retrieval
-- 210CT Programming, Algorithms, and Data Structures
-- 207SE Operating Systems, Security and Networks
-- 205CDE Developing the Modern Web
-- 124MS Logic and Sets
-- 121COM Introduction to Computing
+- M Internet Systems Development
+- 3 Open Source Development
+- 3 Web API Development
+- 2 Software Engineering
+- 2 Data and Information Retrieval
+- 2 Programming, Algorithms, and Data Structures
+- 2 Developing the Modern Web
+- 1 Computer Architecture and Networks
+- 1 Current Technologies
+- 1 Logic and Sets
+- 1 Introduction to Computing
 
 *London School of Economics*
 
-- PH217 Set Theory and Further Logic
-- PH101 Logic
-
+- M/3/2 Set Theory and Further Logic
+- 1 Logic
+</details>
