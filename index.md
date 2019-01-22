@@ -39,20 +39,25 @@ title: Colin Stephen
 
 <i>Coventry University</i>
 
-- M Internet Systems Development
-- 3 Open Source Development
-- 3 Web API Development
-- 2 Software Engineering
-- 2 Data and Information Retrieval
-- 2 Programming, Algorithms, and Data Structures
-- 2 Developing the Modern Web
-- 1 Computer Architecture and Networks
-- 1 Current Technologies
-- 1 Logic and Sets
-- 1 Introduction to Computing
+<ul>
+<li> M Internet Systems Development </li>
+<li> 3 Open Source Development </li>
+<li> 3 Web API Development </li>
+<li> 2 Software Engineering </li>
+<li> 2 Data and Information Retrieval </li>
+<li> 2 Programming, Algorithms, and Data Structures </li>
+<li> 2 Developing the Modern Web </li>
+<li> 1 Computer Architecture and Networks </li>
+<li> 1 Current Technologies </li>
+<li> 1 Logic and Sets </li>
+<li> 1 Introduction to Computing </li>
+</ul>
 
 <i>London School of Economics</i>
 
-- M/3/2 Set Theory and Further Logic
-- 1 Logic
+<ul>
+<li> M/3/2 Set Theory and Further Logic </li>
+<li> 1 Logic </li>
+</ul>
+
 </details>
