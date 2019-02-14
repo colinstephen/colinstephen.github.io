@@ -29,7 +29,7 @@ title: Colin Stephen
 
 #### Current
 
-- M Machine Learning and Computer Vision
+- M Machine Learning and Computer Vision (Module Leader)
 - 3 Theoretical Aspects of Computer Science
 - 2 Operating Systems, Security and Networks
 
