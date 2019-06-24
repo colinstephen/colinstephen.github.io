@@ -5,7 +5,6 @@ title: Colin Stephen
 ## Contact
 
 - [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
-- Room DCG-01B, Design Hub
 
 ## Research
 
@@ -14,6 +13,10 @@ title: Colin Stephen
 - Topological Data Analysis
 - Time Series Analysis
 - Computer Vision
+
+#### Preprints
+
+- Stephen, Colin (2019). _Horizon Visibility Graphs and Time Series Merge Trees are Dual._ arXiv Preprints [arXiv:1906.08825](https://arxiv.org/abs/1906.08825). <details> **Abstract:** In this paper we introduce the horizon visibility graph, a simple extension to the popular horizontal visibility graph representation of a time series, and show that it possesses a rigorous mathematical foundation in computational algebraic topology. This fills a longstanding gap in the literature on the horizontal visibility approach to nonlinear time series analysis which, despite a suite of successful applications across multiple domains, lacks a formal setting in which to prove general properties and develop natural extensions. The main finding is that horizon visibility graphs are dual to merge trees arising naturally over a filtered complex associated to a time series, while horizontal visibility graphs are weak duals of these trees. Immediate consequences include availability of tree-based reconstruction theorems, connections to results on the statistics of self-similar trees, and relations between visibility graphs and the emerging field of applied persistent homology. </br></br></details>
 
 #### Peer Reviewed Publications
 
