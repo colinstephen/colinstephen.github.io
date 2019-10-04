@@ -32,9 +32,9 @@ title: Colin Stephen
 
 #### Current
 
-- M Machine Learning and Computer Vision (Module Leader)
-- 3 Theoretical Aspects of Computer Science
-- 2 Operating Systems, Security and Networks
+- (Masters) Machine Learning and Computer Vision (Module Leader)
+- (Y3) Web API Development
+- (Y3) Theoretical Aspects of Computer Science
 
 #### Previous
 
@@ -46,6 +46,7 @@ title: Colin Stephen
 <li> M Internet Systems Development </li>
 <li> 3 Open Source Development </li>
 <li> 3 Web API Development </li>
+<li> 2 Operating Systems, Security and Networks </li>
 <li> 2 Software Engineering </li>
 <li> 2 Data and Information Retrieval </li>
 <li> 2 Programming, Algorithms, and Data Structures </li>
