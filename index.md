@@ -33,8 +33,9 @@ title: Colin Stephen
 #### Current
 
 - (Masters) Machine Learning and Computer Vision (Module Leader)
-- (Y3) Web API Development
+- (Masters) Machine Learning
 - (Y3) Theoretical Aspects of Computer Science
+- (Y3) Web API Development
 
 #### Previous
 
