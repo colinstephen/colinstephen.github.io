@@ -25,8 +25,9 @@ title: Colin Stephen
 
 #### Activity
 
+- Reviewer for [Mathematical Aspects of Computer and Information Sciences 2019](http://macis2019.gtu.edu.tr/) published in Springer Lecture Notes in Computer Science
 - Member of the [Applied Algebraic Topology Research Network](https://topology.ima.umn.edu/)
-- Member of the [Institute for Future Transport and Cities](https://www.coventry.ac.uk/research/areas-of-research/institute-for-future-transport-and-cities/), Coventry University
+- Affiliate Member of the [Research Centre for Data Science](https://www.coventry.ac.uk/research/areas-of-research/centre-for-data-science/), Coventry University
 
 ## Teaching
 
