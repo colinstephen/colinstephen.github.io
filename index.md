@@ -34,29 +34,32 @@ title: Colin Stephen
 #### Current
 
 - (Masters) Machine Learning and Computer Vision (Module Leader)
-- (Masters) Machine Learning
+- (Y3) Web API Development (Module Leader)
 - (Y3) Theoretical Aspects of Computer Science
-- (Y3) Web API Development
+
 
 #### Previous
 
 <details>
+  
+  These are the modules I have led or assisted in delivering in previous years.
 
 <i>Coventry University</i>
 
 <ul>
-<li> M Internet Systems Development </li>
-<li> 3 Open Source Development </li>
-<li> 3 Web API Development </li>
-<li> 2 Operating Systems, Security and Networks </li>
-<li> 2 Software Engineering </li>
-<li> 2 Data and Information Retrieval </li>
-<li> 2 Programming, Algorithms, and Data Structures </li>
-<li> 2 Developing the Modern Web </li>
-<li> 1 Computer Architecture and Networks </li>
-<li> 1 Current Technologies </li>
-<li> 1 Logic and Sets </li>
-<li> 1 Introduction to Computing </li>
+  <li> M Machine Learning </li>
+  <li> M Internet Systems Development </li>
+  <li> 3 Open Source Development </li>
+  <li> 3 Web API Development </li>
+  <li> 2 Operating Systems, Security and Networks </li>
+  <li> 2 Software Engineering </li>
+  <li> 2 Data and Information Retrieval </li>
+  <li> 2 Programming, Algorithms, and Data Structures </li>
+  <li> 2 Developing the Modern Web </li>
+  <li> 1 Computer Architecture and Networks </li>
+  <li> 1 Current Technologies </li>
+  <li> 1 Logic and Sets </li>
+  <li> 1 Introduction to Computing </li>
 </ul>
 
 <i>London School of Economics</i>
