@@ -42,9 +42,9 @@ title: Colin Stephen
 
 <details>
   
-  <p>These are the modules I have led or assisted in delivering in previous years.<p>
+These are the modules I have led or assisted in delivering in previous years.
 
-<i>Coventry University</i>
+<h4>Coventry University</h4>
 
 <ul>
   <li> M Machine Learning </li>
@@ -62,7 +62,7 @@ title: Colin Stephen
   <li> 1 Introduction to Computing </li>
 </ul>
 
-<i>London School of Economics</i>
+<h4>London School of Economics</h4>
 
 <ul>
 <li> M/3/2 Set Theory and Further Logic </li>
