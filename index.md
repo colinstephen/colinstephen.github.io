@@ -42,7 +42,7 @@ title: Colin Stephen
 
 <details>
   
-  These are the modules I have led or assisted in delivering in previous years.
+  <p>These are the modules I have led or assisted in delivering in previous years.<p>
 
 <i>Coventry University</i>
 
