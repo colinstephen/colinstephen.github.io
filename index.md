@@ -63,3 +63,6 @@ title: Colin Stephen
 </ul>
 
 </details>
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
