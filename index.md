@@ -14,7 +14,7 @@ title: Colin Stephen
 - Time Series Analysis
 - Computer Vision
 
-<script src="https://bibbase.org/show?bib=publications.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=colinstephen.info/publications.bib&jsonp=1"></script>
 
 #### Preprints
 
