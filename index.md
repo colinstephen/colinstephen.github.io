@@ -11,8 +11,8 @@ title: Colin Stephen
 #### Interests
 
 - Topological Data Analysis
-- Time Series Analysis
-- Computer Vision
+- Time Series Classification
+- Graph Neural Networks
 
 #### Publications and Preprints
 
@@ -20,7 +20,7 @@ title: Colin Stephen
 
 #### Activity
 
-- Reviewer for [Mathematical Aspects of Computer and Information Sciences 2019](http://macis2019.gtu.edu.tr/) published in Springer Lecture Notes in Computer Science
+- Reviewer for [Mathematical Aspects of Computer and Information Sciences](http://macis2019.gtu.edu.tr/) published in Springer Lecture Notes in Computer Science
 - Member of the [Applied Algebraic Topology Research Network](https://topology.ima.umn.edu/)
 - Affiliate Member of the [Research Centre for Data Science](https://www.coventry.ac.uk/research/areas-of-research/centre-for-data-science/), Coventry University
 
