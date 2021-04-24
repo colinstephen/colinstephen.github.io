@@ -1,3 +1,14 @@
+@article{stephen2021,
+	title = {A linear time scalable algorithm for horizontal visibility based on a graph duality with trees},
+	abstract = {The horizontal visibility graph (HVG) representation of a time series is an outerplanar graph whose properties can be used to study the dynamics of nonlinear systems. The HVG approach has seen successful applications from finance and geophysics to cardiology and neuroscience. Recently HVGs have also been extended to applications in image-based pattern recognition. Efficient and scalable online HVG constructions are vital to applying HVG analysis in the context of long or streaming real-world data.
+
+The fastest scalable online method for constructing HVGs, the binary search tree (BST) encoding--decoding algorithm, is $O(n\log n)$. However, in practice BST is highly sensitive to the geometric structure of a time series and its performance degrades significantly when data possess long term dependency or when the sample frequency is high. To avoid these problems we present an ordered rooted tree representation of a time series that is (graph) dual to its HVG and show that the tree can be built in $O(n)$ time. Unlike previous methods, the performance of the dual tree-based algorithm is agnostic with respect to the geometry of the underlying data. Moreover, it allows batchwise progressive updates to HVGs at large scale via an efficient tree merge operation and completely avoids the overheads of graph encoding--decoding needed by the BST algorithm.
+
+We report on experimental benchmarks comparing real-world performance of the dual tree algorithm to other approaches. On data sampled from fractional Brownian motions, deterministic chaotic systems, brain EEG recordings, and the financial markets, the dual tree approach to HVG construction outperforms existing methods, typically by orders of magnitude.},
+	journal = {In preparation},
+	author = {Stephen, Colin},
+	year = {2021},
+}
 
 @article{stephen2019,
 	title = {Horizon {Visibility} {Graphs} and {Time} {Series} {Merge} {Trees} are {Dual}},
