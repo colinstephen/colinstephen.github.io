@@ -16,7 +16,7 @@ title: Colin Stephen
 
 #### Publications and Preprints
 
-<script src="https://bibbase.org/show?bib=colinstephen.info/publications.bib&jsonp=1&theme=mila&hidemenu=true"></script>
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/colinstephen/colinstephen.github.io/master/publications.bib&jsonp=1&theme=mila&hidemenu=true"></script>
 
 #### Activity
 
