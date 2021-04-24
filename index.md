@@ -37,29 +37,28 @@ title: Colin Stephen
 
 <details>
 
-<h5>Coventry University</h5>
+<h5>Coventry University 2013-Present</h5>
 
 <ul>
-  <li> M Machine Learning </li>
-  <li> M Internet Systems Development </li>
-  <li> 3 Open Source Development </li>
-  <li> 3 Web API Development </li>
-  <li> 2 Operating Systems, Security and Networks </li>
-  <li> 2 Software Engineering </li>
-  <li> 2 Data and Information Retrieval </li>
-  <li> 2 Programming, Algorithms, and Data Structures </li>
-  <li> 2 Developing the Modern Web </li>
-  <li> 1 Computer Architecture and Networks </li>
-  <li> 1 Current Technologies </li>
-  <li> 1 Logic and Sets </li>
-  <li> 1 Introduction to Computing </li>
+  <li> MSc Machine Learning </li>
+  <li> MSc Internet Systems Development </li>
+  <li> Y3 Open Source Development </li>
+  <li> Y2 Operating Systems, Security and Networks </li>
+  <li> Y2 Software Engineering </li>
+  <li> Y2 Data and Information Retrieval </li>
+  <li> Y2 Programming, Algorithms, and Data Structures </li>
+  <li> Y2 Developing the Modern Web </li>
+  <li> Y1 Computer Architecture and Networks </li>
+  <li> Y1 Current Technologies </li>
+  <li> Y1 Logic and Sets </li>
+  <li> Y1 Introduction to Computing </li>
 </ul>
 
-<h5>London School of Economics</h5>
+<h5>London School of Economics 2003-2006</h5>
 
 <ul>
-<li> M/3/2 Set Theory and Further Logic </li>
-<li> 1 Logic </li>
+<li> MSc/Y3/Y2 Set Theory and Further Logic </li>
+<li> Y1 Logic </li>
 </ul>
 
 </details>
