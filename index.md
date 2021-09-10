@@ -62,15 +62,3 @@ title: Colin Stephen
 </ul>
 
 </details>
-
-
-### Comments
-
-<script src="https://utteranc.es/client.js"
-        repo="colinstephen/colinstephen.github.io"
-        issue-term="pathname"
-        label="comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
