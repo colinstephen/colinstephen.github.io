@@ -4,8 +4,9 @@
 
 The fastest scalable method for constructing HVGs today is the binary search tree (BST) encoding--decoding algorithm, which is O(n log n) in time series length for balanced data such as noise. However, in practice BST is highly sensitive to the geometric structure of a time series and its performance degrades significantly towards O(n^2) when data possess long term dependencies or when the sample frequency is high, which occur regularly in practice. To avoid these problems we leverage an O(n) ordered rooted tree representation of time series that is (graph) dual to the HVG. We demonstrate that this representation leads to an algorithm for HVG construction that is agnostic with respect to the geometry and auto-correlations of the underlying data. Moreover, it possesses an efficient branch fusion operation for tree merging, leading to the idea of a bipartite HVG introduced in this paper, which allows HVGs for very large time series to be constructed efficiently in parallel.
 
-After introducing our method and algorithms for parallel construction of HVGs we report on experimental benchmarks comparing their real-world performance to existing approaches on long time series. On data sampled from fractional Brownian motions, deterministic chaotic systems, brain EEG recordings, and the financial markets, our dual tree algorithms significantly outperform previous methods.},
-	journal = {In preparation},
+After introducing our method and algorithms for parallel construction of HVGs we report on experimental benchmarks comparing their real-world performance to existing approaches on long time series. On data sampled from fractional Brownian motions, deterministic chaotic systems, brain EEG recordings, and the financial markets, our dual tree algorithms significantly outperform previous methods.
+},
+	journal = {Submitted to IEEE BigData 2021},
 	author = {Stephen, Colin},
 	year = {2021},
 }
