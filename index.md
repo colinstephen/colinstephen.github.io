@@ -5,33 +5,44 @@ title: Colin Stephen
 ## Contact
 
 - [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
+- [Employer Website Profile](https://pureportal.coventry.ac.uk/en/persons/colin-stephen)
 
 ## Research
 
-#### Interests
+### Interests
 
 - Topological Data Analysis
 - Time Series Classification
-- Graph Neural Networks
+- Machine Learning
 
-#### Publications and Preprints
+### Publications and Preprints
 
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/colinstephen/colinstephen.github.io/master/publications.bib&jsonp=1&theme=mila&hidemenu=true"></script>
 
-#### Activity
+## Professional Activity
 
-- Lead developer on [EnergyREV](https://www.energyrev.org.uk/) research consortium's _Catalogue of Projects on Energy Data (CoPED)_.
-- Reviewer for [Mathematical Aspects of Computer and Information Sciences](http://macis2019.gtu.edu.tr/) published in Springer Lecture Notes in Computer Science
+_Applied Research Projects_
+
+- Lead developer on [EnergyREV](https://www.energyrev.org.uk/) research consortium's _Catalogue of Projects on Energy Data (CoPED)_ &mdash Natural language processing (NLP) and data visualisation. (2021-2022 : £76,000)
+- PI & Lead developer on [Scottish Enterprise / TÜV SÜD](https://www.tuvsud.com/en-gb/industries/chemical-and-process/flow-measurement) applied research project _Energy Sector R&D Mapping_ &mdash; Natural language processing (NLP) and geospatial mapping. (2015-2016 : £80,000)
+
+_Peer Review_
+
+- Reviewer for IEEE Industrial Electronics Society [International Conference on the Physics of Semiconductors](https://icps2022.org/).
+- Reviewer for [Mathematical Aspects of Computer and Information Sciences](http://macis2019.gtu.edu.tr/) &mdash; Springer Lecture Notes in Computer Science.
+
+_Networks and Organisations_
+
 - Member of the [Applied Algebraic Topology Research Network](https://topology.ima.umn.edu/)
 - Affiliate Member of the [Centre for Computational Science and Mathematical Modelling](https://www.coventry.ac.uk/research/areas-of-research/centre-for-data-science/), Coventry University
 
 ## Teaching
 
-#### Recent
+#### Current
 
-- (Masters) Machine Learning and Computer Vision (Module Leader)
 - (Y3) Web API Development (Module Leader)
 - (Y3) Theoretical Aspects of Computer Science
+- (Y3) Machine Learning and Related Applications
 
 
 #### Previous
@@ -41,16 +52,13 @@ title: Colin Stephen
 <h5>Coventry University 2013-Present</h5>
 
 <ul>
+  <li> MSc Machine Learning and Computer Vision (Module Leader)</li>
   <li> MSc Machine Learning </li>
-  <li> MSc Internet Systems Development </li>
   <li> Y3 Open Source Development </li>
   <li> Y2 Operating Systems, Security and Networks </li>
   <li> Y2 Software Engineering </li>
-  <li> Y2 Data and Information Retrieval </li>
   <li> Y2 Programming, Algorithms, and Data Structures </li>
-  <li> Y2 Developing the Modern Web </li>
   <li> Y1 Computer Architecture and Networks </li>
-  <li> Y1 Current Technologies </li>
   <li> Y1 Logic and Sets </li>
   <li> Y1 Introduction to Computing </li>
 </ul>
