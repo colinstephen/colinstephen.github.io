@@ -23,7 +23,7 @@ title: Colin Stephen
 
 _Applied Research Projects_
 
-- Lead developer on [EnergyREV](https://www.energyrev.org.uk/) research consortium's _Catalogue of Projects on Energy Data (CoPED)_ &mdash Natural language processing (NLP) and data visualisation. (2021-2022 : £76,000)
+- Lead developer on [EnergyREV](https://www.energyrev.org.uk/) research consortium's _Catalogue of Projects on Energy Data (CoPED)_ &mdash; Natural language processing (NLP) and data visualisation. (2021-2022 : £76,000)
 - PI & Lead developer on [Scottish Enterprise / TÜV SÜD](https://www.tuvsud.com/en-gb/industries/chemical-and-process/flow-measurement) applied research project _Energy Sector R&D Mapping_ &mdash; Natural language processing (NLP) and geospatial mapping. (2015-2016 : £80,000)
 
 _Peer Review_
