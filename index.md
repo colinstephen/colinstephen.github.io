@@ -13,7 +13,7 @@ title: Colin Stephen
 
 - Topological Data Analysis
 - Time Series Classification
-- Machine Learning
+- Nonlinear Dynamics
 
 ### Publications and Preprints
 
