@@ -40,34 +40,25 @@ _Networks and Organisations_
 
 #### Current
 
-- (Y3) Web API Development (Module Leader)
-- (Y3) Theoretical Aspects of Computer Science
-- (Y3) Machine Learning and Related Applications
-
+- Y3 Web API Development (Module Leader)
+- Y3 Machine Learning and Related Applications
 
 #### Previous
 
-<details>
+##### Coventry University 2013-Present
 
-<h5>Coventry University 2013-Present</h5>
+- MSc Machine Learning and Computer Vision (Module Leader)
+- MSc Machine Learning
+- Y3 Open Source Development
+- Y3 Theoretical Aspects of Computer Science
+- Y2 Operating Systems, Security and Networks
+- Y2 Software Engineering
+- Y2 Programming, Algorithms, and Data Structures
+- Y1 Computer Architecture and Networks
+- Y1 Logic and Sets
+- Y1 Introduction to Computing
 
-<ul>
-  <li> MSc Machine Learning and Computer Vision (Module Leader)</li>
-  <li> MSc Machine Learning </li>
-  <li> Y3 Open Source Development </li>
-  <li> Y2 Operating Systems, Security and Networks </li>
-  <li> Y2 Software Engineering </li>
-  <li> Y2 Programming, Algorithms, and Data Structures </li>
-  <li> Y1 Computer Architecture and Networks </li>
-  <li> Y1 Logic and Sets </li>
-  <li> Y1 Introduction to Computing </li>
-</ul>
+##### London School of Economics 2003-2006
 
-<h5>London School of Economics 2003-2006</h5>
-
-<ul>
-<li> MSc/Y3/Y2 Set Theory and Further Logic </li>
-<li> Y1 Logic </li>
-</ul>
-
-</details>
+- MSc/Y3/Y2 Set Theory and Further Logic
+- Y1 Logic
