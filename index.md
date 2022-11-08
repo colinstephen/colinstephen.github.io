@@ -4,8 +4,15 @@ title: Colin Stephen
 
 ## Contact
 
-- [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
-- [employer profile](https://pureportal.coventry.ac.uk/en/persons/colin-stephen) (Coventry University)
+- Email [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
+- Profile on [Coventry University staff page](https://pureportal.coventry.ac.uk/en/persons/colin-stephen)
+
+## Accreditation
+
+Colin Stephen _MIMA FHEA_
+
+- Member of the [Institute of Mathematics and its Applications](https://ima.org.uk/) (MIMA)
+- Fellow of [Advance HE](https://www.advance-he.ac.uk/) (FHEA)
 
 ## Research
 
