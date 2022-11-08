@@ -4,8 +4,8 @@ title: Colin Stephen
 
 ## Contact
 
-- Email [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
-- Profile on [Coventry University staff page](https://pureportal.coventry.ac.uk/en/persons/colin-stephen)
+- Email: [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
+- Profile: [Coventry University staff page](https://pureportal.coventry.ac.uk/en/persons/colin-stephen)
 
 ## Accreditation
 
