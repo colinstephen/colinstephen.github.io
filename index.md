@@ -6,12 +6,13 @@ title: Colin Stephen
 
 - Email: [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
 
-## Accreditation
+## Professional Accreditations
 
-Colin Stephen _MIMA FHEA_
+Colin Stephen _MIMA MBCS FHEA_
 
-- Member of the [Institute of Mathematics and its Applications](https://ima.org.uk/) (MIMA)
-- Fellow of [Advance HE](https://www.advance-he.ac.uk/) (FHEA)
+- (MIMA) Elected member of the [Institute of Mathematics and its Applications](https://ima.org.uk/)
+- (MBCS) Professional member of [BCS](https://www.bcs.org/) the Chartered Institute for IT
+- (FHEA) Fellow of [Advance HE](https://www.advance-he.ac.uk/)
 
 ## Research
 
