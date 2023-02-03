@@ -50,7 +50,8 @@ _Networks and Organisations_
 - Y3 Web API Development (Module Leader)
 - Y3 Machine Learning and Related Applications
 
-#### Previous
+<details>
+  <summary>Previous</summary>
 
 ##### Coventry University 2013-Present
 
@@ -69,3 +70,18 @@ _Networks and Organisations_
 
 - MSc/Y3/Y2 Set Theory and Further Logic
 - Y1 Logic
+</details>
+
+
+## Education
+
+- MSc Mathematical Logic and the Foundations of Computer Science (University of Manchester)
+- MSc Philosophy and History of Science (London School of Economics & King's College, University of London)
+- BSc (Hons) Mathematics (Edinburgh University)
+
+## Previous Employment
+
+- Software development manager (Halarose/Idox Elections)
+- Senior developer (Halarose/Idox Elections)
+- Developer (Halarose/Idox Elections)
+- Freelance developer (multiple clients)
