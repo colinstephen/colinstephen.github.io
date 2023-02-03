@@ -50,8 +50,7 @@ _Networks and Organisations_
 - Y3 Web API Development (Module Leader)
 - Y3 Machine Learning and Related Applications
 
-<details>
-  <summary>Previous</summary>
+#### Previous
 
 ##### Coventry University 2013-Present
 
@@ -70,14 +69,22 @@ _Networks and Organisations_
 
 - MSc/Y3/Y2 Set Theory and Further Logic
 - Y1 Logic
-</details>
 
 
 ## Education
 
-- MSc Mathematical Logic and the Foundations of Computer Science (University of Manchester)
-- MSc Philosophy and History of Science (London School of Economics & King's College, University of London)
-- BSc (Hons) Mathematics (Edinburgh University)
+#### University of Manchester
+
+- MSc Mathematical Logic and the Foundations of Computer Science
+
+#### London School of Economics, University of London
+
+- MSc Philosophy and History of Science
+
+#### University of Edinburgh
+
+- BSc (Hons) Mathematics
+
 
 ## Previous Employment
 
