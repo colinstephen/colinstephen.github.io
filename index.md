@@ -52,7 +52,7 @@ _Networks and Organisations_
 
 #### Previous
 
-##### Coventry University 2013-Present
+##### Coventry University
 
 - MSc Machine Learning and Computer Vision (Module Leader)
 - MSc Machine Learning
@@ -65,7 +65,7 @@ _Networks and Organisations_
 - Y1 Logic and Sets
 - Y1 Introduction to Computing
 
-##### London School of Economics 2003-2006
+##### London School of Economics, University of London
 
 - MSc/Y3/Y2 Set Theory and Further Logic
 - Y1 Logic
