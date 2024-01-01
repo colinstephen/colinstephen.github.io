@@ -10,7 +10,7 @@ title: Colin Stephen
 
 - (MIMA) Elected member of the Institute of Mathematics and its Applications (IMA)
 - (MBCS) Professional member of BCS, the Chartered Institute for IT
-- (FHEA) Fellow of Advance HE, the professional body for Higher Education professionals
+- (FHEA) Fellow of Advance HE, the body for Higher Education professionals
 
 ## Education
 
