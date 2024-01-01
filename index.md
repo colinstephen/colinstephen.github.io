@@ -4,91 +4,35 @@ title: Colin Stephen
 
 ## Contact
 
-- Email: [colin.stephen@coventry.ac.uk](mailto:colin.stephen@coventry.ac.uk)
+- Forwarding address: [08-draftee.swishes@icloud.com](mailto:08-draftee.swishes@icloud.com)
 
-## Professional Accreditations
+## Accreditations
 
-Colin Stephen _MIMA MBCS FHEA_
-
-- (MIMA) Elected member of the [Institute of Mathematics and its Applications](https://ima.org.uk/)
-- (MBCS) Professional member of [BCS](https://www.bcs.org/) the Chartered Institute for IT
-- (FHEA) Fellow of [Advance HE](https://www.advance-he.ac.uk/)
-
-## Research
-
-### Interests
-
-- Topological Data Analysis
-- Time Series Classification
-- Nonlinear Dynamics
-
-### Publications and Preprints
-
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/colinstephen/colinstephen.github.io/master/publications.bib&jsonp=1&theme=mila&hidemenu=true"></script>
-
-## Professional Activity
-
-_Applied Research Projects_
-
-- Lead developer on [EnergyREV](https://www.energyrev.org.uk/) research consortium's _Catalogue of Projects on Energy Data (CoPED)_ &mdash; Natural language processing (NLP) and data visualisation. (2021-2022 : £76,000)
-- PI & Lead developer on [TÜV SÜD National Engineering Laboratory](https://www.tuvsud.com/en-gb/industries/chemical-and-process/flow-measurement) applied research project _Energy Sector R&D Mapping_ &mdash; Natural language processing (NLP) and geospatial mapping. (2015-2016 : £80,000)
-
-_Peer Review_
-
-- Reviewer for IEEE Industrial Electronics Society [International Conference on the Physics of Semiconductors](https://icps2022.org/).
-- Reviewer for [Mathematical Aspects of Computer and Information Sciences](http://macis2019.gtu.edu.tr/) &mdash; Springer Lecture Notes in Computer Science.
-
-_Networks and Organisations_
-
-- Member of the [Applied Algebraic Topology Research Network](https://topology.ima.umn.edu/)
-- Affiliate Member of the [Centre for Computational Science and Mathematical Modelling](https://www.coventry.ac.uk/research/areas-of-research/centre-for-data-science/), Coventry University
-
-## Teaching
-
-#### Current
-
-- Y3 Web API Development (Module Leader)
-- Y3 Machine Learning and Related Applications
-
-#### Previous
-
-##### Coventry University
-
-- MSc Machine Learning and Computer Vision (Module Leader)
-- MSc Machine Learning
-- Y3 Open Source Development
-- Y3 Theoretical Aspects of Computer Science
-- Y2 Operating Systems, Security and Networks
-- Y2 Software Engineering
-- Y2 Programming, Algorithms, and Data Structures
-- Y1 Computer Architecture and Networks
-- Y1 Logic and Sets
-- Y1 Introduction to Computing
-
-##### London School of Economics, University of London
-
-- MSc/Y3/Y2 Set Theory and Further Logic
-- Y1 Logic
-
+- (MIMA) Elected member of the Institute of Mathematics and its Applications (IMA)
+- (MBCS) Professional member of BCS, the Chartered Institute for IT
+- (FHEA) Fellow of Advance HE, the professional body for Higher Education professionals
 
 ## Education
 
-#### University of Manchester
+- BSc (Hons) Mathematics (University of Edinburgh)
+- MSc Philosophy and History of Science (London School of Economics, University of London)
+- MSc Mathematical Logic and the Foundations of Computer Science (University of Manchester)
+- PhD Mathematics and Physics (Coventry University)
+  - Title: _Discrete merge trees, horizon visibility graphs and topological divergences: Topology-based representations for nonlinear time series analysis_
+  - Examiners: Vidit Nanda (Oxford), Ruben Sanchez-Garcia (Southampton)
+  - Director of Studies: Matthew England (Coventry)
 
-- MSc Mathematical Logic and the Foundations of Computer Science
+## Employment
 
-#### London School of Economics, University of London
+1. Bicycle Messenger (Edinburgh Couriers)
+2. Website Manager (Department of Government, London School of Economics)
+3. Freelance Developer (multiple clients)
+4. Developer (Halarose/Idox Elections)
+5. Senior Developer (Halarose/Idox Elections)
+6. Software Development Manager (Halarose/Idox Elections)
+7. Assistant Lecturer in Computer Science (School of Computing, Mathematics and Data Science, Coventry University)
+8. **Current:** Software Developer (UK Government Digital and Data)
 
-- MSc Philosophy and History of Science
+## Research
 
-#### University of Edinburgh
-
-- BSc (Hons) Mathematics
-
-
-## Previous Employment
-
-- Software development manager (Halarose/Idox Elections)
-- Senior developer (Halarose/Idox Elections)
-- Developer (Halarose/Idox Elections)
-- Freelance developer (multiple clients)
+- [Google Scholar profile](https://scholar.google.com/citations?user=HNmtzhoAAAAJ&hl=en)
