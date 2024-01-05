@@ -35,4 +35,4 @@ title: Colin Stephen
 
 ## Research
 
-- [Google Scholar profile](https://scholar.google.com/citations?user=HNmtzhoAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=HNmtzhoAAAAJ&hl=en)
