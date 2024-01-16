@@ -31,7 +31,7 @@ title: Colin Stephen
 5. Senior Developer (Halarose/Idox Elections)
 6. Software Development Manager (Halarose/Idox Elections)
 7. Assistant Lecturer in Computer Science (School of Computing, Mathematics and Data Science, Coventry University)
-8. **Current:** Software Developer (UK Government Digital and Data)
+8. **Current:** Software Developer (UK Government Digital and Data Profession)
 
 ## Research
 
